@@ -31,3 +31,7 @@ body {
 #github-icon {
     color: #6e5494
 }
+
+.card-body, .card, .mb-6 {
+    background-color: #637e6c;
+}
