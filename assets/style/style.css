@@ -35,3 +35,7 @@ body {
 .card-body, .card, .mb-6 {
     background-color: #637e6c;
 }
+
+.card-title {
+    font-family: 'IM Fell DW Pica SC', serif;
+}
