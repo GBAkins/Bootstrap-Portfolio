@@ -1,0 +1,33 @@
+body {
+    font-family: 'Petrona', serif;
+    background-color: #74947e
+}
+
+.navbar-brand, .display-4 {
+    font-family: 'IM Fell DW Pica SC', serif;
+}
+
+.jumbotron {
+    background-image: url(../images/waves.JPG);
+    background-size: cover;  
+}
+
+.bg-light {
+    background-color: #9cbaa5!important;
+}
+
+#carouselExampleControls {
+    padding-bottom: 56px
+}
+
+#twitter-icon {
+    color: #00acee;
+}
+
+#linkedin-icon {
+    color: #0077B5;
+}
+
+#github-icon {
+    color: #6e5494
+}
