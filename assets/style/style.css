@@ -39,3 +39,7 @@ body {
 .card-title {
     font-family: 'IM Fell DW Pica SC', serif;
 }
+
+#links {
+    align: center
+}
